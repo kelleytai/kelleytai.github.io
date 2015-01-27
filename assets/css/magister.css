@@ -104,6 +104,7 @@ body {
 /********************************************************/
 /*             Sections - universal classes             */
 /********************************************************/
+
 .section { 
 	z-index: 1;
 	min-height:420px;
@@ -122,6 +123,7 @@ body {
 /* Show one of sections */
 #head { 
 	display: block;
+    margin-top: -
 }
 
 
@@ -136,7 +138,14 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	line-height:1.2em;
 }
 
-.title,
+.title {
+    	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	font-size:7em;
+	margin-bottom:15px; 
+	color:#FDF9F4; 
+	line-height:1em;
+}
 .subtitle { 
 	font-family: 'Wire One', Helvetica, Arial, sans-serif;
 	font-weight:normal;
@@ -222,6 +231,16 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	color: inherit;
 }
 
+.research {
+  	background-color: rgba(255,255,255,.2);
+	border: 0 none;
+	padding:10px;
+	-webkit-border-radius: 2px;
+	   -moz-border-radius: 2px;
+	        border-radius: 2px;
+}
+
+
 
 
 /********************************************************/
@@ -245,7 +264,6 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	width:340px; 
 	margin:0 auto;
 }
-
 
 
 
