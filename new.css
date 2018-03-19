@@ -1,0 +1,20 @@
+html,
+body {
+    margin: auto 10px;
+    width: auto;
+    height: 2000px;
+ 
+}
+
+whitep {
+    color: white;
+}
+
+a.coolio {
+    display:inline-block;
+    word-spacing: 30px;
+}
+
+div.propic{
+    text-align: center;
+}
