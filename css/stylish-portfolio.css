@@ -13,7 +13,7 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Lato
 }
 
 .text-vertical-center {
@@ -22,6 +22,9 @@ body {
     vertical-align: middle;
 }
 
+.experience_images{
+    height:50px; 
+}
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
