@@ -1,20 +1,182 @@
-html,
 body {
-    margin: auto 10px;
-    width: auto;
-    height: 2000px;
+    margin-top: 60px;
+    margin-bottom: 60px; 
+    font-family: "Lato";
+    margin-left: 150px; 
+    margin-right: 150px; 
+    padding-right: 50px; 
+}
+
+
+
+.navul {
+    list-style: none;
+    text-align: right;
+ }
+
+
+
+.nav-bar {
+    font-family: "Lato"; 
+    display: inline;
+    font-size: 18px; 
+    padding: 14px;
+}
+
+.title{ 
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    color: #ff6b6b; 
+
+}
+
+.intro { 
+    margin-top: -40px; 
+    font-size: 20px; 
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+h2, h3{
+    font-family: 'Merriweather'; 
+}
+
+h4{
+    font-family: "Roboto";
+}
+
+p {
+    font-family: 'Lato; 
+    font-size: 18px;
+    font-color: #333333; 
+
+    
  
 }
 
-whitep {
-    color: white;
+a{
+    color: #ff6b6b; 
+}
+img {
+    height: auto;
+    width: 500px; 
+
 }
 
-a.coolio {
-    display:inline-block;
-    word-spacing: 30px;
+
+.white-space {
+    padding: 15px;
 }
 
-div.propic{
-    text-align: center;
+.left {
+    text-align: left; 
 }
+
+
+a:link {
+    text-decoration: none; 
+}
+
+
+a:hover{
+    color: #12CBC4;    
+} 
+
+h1 {
+    color: #54a0ff;
+    font-family:'Roboto Slab';
+
+}
+h3{ 
+    text-align:center
+}
+
+.navul a:link {
+    color:black; 
+    
+}
+
+.navul a:visited{
+    color: black;; 
+}
+
+.navul a:active{
+    text-decoration: underline; 
+    text-decoration-color: #ff6b6b;
+
+}
+
+.navul a:hover{
+    font-weight: bold; 
+    color: #ff6b6b;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;  
+
+} 
+
+.subtitle{ 
+    font-size: 17px;
+    font-family: 'Lato'; 
+    line-height:22px;  
+}
+
+.flex-container > div{ 
+    margin-right: 30px;
+    padding-right: 30px;  
+}
+
+
+.subtitleproject{ 
+    font-size: 17px;
+    font-family: 'Lato'; 
+    line-height:22px;  
+    line-height: 25px; 
+}
+
+
+.diagram {
+    height: 225px; 
+    max-width: 225px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.personas{ 
+    margin-right: 600px; 
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.horizontalcenter{
+    padding: 20px;
+    resize: vertical;
+    overflow: auto;
+}
+
+.method{
+        max-width:60%;
+        max-height:60%;
+}
+
+.method{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
