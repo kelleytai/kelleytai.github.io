@@ -184,3 +184,9 @@ h3{
 .shoutout{ 
     line-height: 40px;
 }
+
+.demo {
+    height: 700px;
+    width: auto; 
+    
+}
