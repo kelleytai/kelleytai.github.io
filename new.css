@@ -4,7 +4,8 @@ body {
     font-family: "Lato";
     margin-left: 150px; 
     margin-right: 150px; 
-    padding-right: 50px; 
+    padding-right: 50px;
+    font-size: 16px;
 }
 
 
@@ -17,48 +18,42 @@ body {
 
 
 .nav-bar {
-    font-family: "Lato"; 
+    font-family: "Baskerville"; 
     display: inline;
-    font-size: 18px; 
+    font-size: 20px; 
     padding: 14px;
 }
 
 .title{ 
-    font-size: 50px;
-    font-weight: bold;
-    font-family: 'Roboto Slab', serif;
-    color: #ff6b6b; 
-
+    font-size: 70px;
+    font-family: "Garamond",
+            Baskerville,
+            "Baskerville Old Face",
+            "Hoefler Text";
 }
 
 .intro { 
-    margin-top: -40px; 
+    margin-top: -0px; 
     font-size: 20px; 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Garamound';
 
 
 }
 
 h2, h3{
-    font-family: 'Merriweather'; 
+    font-family: 'Baskerville'; 
 }
 
 h4{
-    font-family: "Roboto";
+    font-family: "Baskerville";
 }
 
 p {
-    font-family: 'Lato; 
-    font-size: 18px;
-    font-color: #333333; 
-
-    
- 
+    font-family: 'Lato'; 
+    font-size: 16px;
 }
 
-a{
-    color: #ff6b6b; 
-}
+
 img {
     height: auto;
     width: 400px; 
@@ -81,12 +76,12 @@ a:link {
 
 
 a:hover{
-    color: #12CBC4;    
+    color: #ff6b6b;    
 } 
 
 h1 {
-    color: #54a0ff;
-    font-family:'Roboto Slab';
+    color: #ff6b6b;
+    font-family:'Baskerville';
 
 }
 h3{ 
@@ -123,7 +118,7 @@ h3{
 
 .subtitle{ 
     font-size: 17px;
-    font-family: 'Lato'; 
+    font-family: 'Baskerville'; 
     line-height:22px;  
 }
 
@@ -135,7 +130,7 @@ h3{
 
 .subtitleproject{ 
     font-size: 17px;
-    font-family: 'Lato'; 
+    font-family: 'Baskerville'; 
     line-height:22px;  
     line-height: 25px; 
 }
@@ -189,4 +184,8 @@ h3{
     height: 700px;
     width: auto; 
     
+}
+
+.propic {
+    clip-path: circle();
 }
