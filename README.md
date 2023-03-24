@@ -1,1 +1,1 @@
-#Hi everyone! This is my Author bio constructed and developed and coded (pretty badly) by yours truly! If you dig far deep, you'll be able to see some of my very old school projects and terrible writing. I don't recommend digging around, but you can if you'd like. 
+#Hi everyone! This is my Author website constructed and developed and coded (pretty badly) by yours truly! If you dig far deep, you'll be able to see some of my very old school projects and terrible writing. I don't recommend digging around, but you can if you'd like. 
