@@ -54,34 +54,33 @@ body {
 
 
 h2, h3{
-    font-family: "Garamond",
+    font-family: "Hoefler Text",
         Baskerville,
-        "Baskerville Old Face",
-        "Hoefler Text";
+        "Baskerville Old Face";
 }
 
-h3{
-    font-family: "Garamond",
-        Baskerville,
-        "Baskerville Old Face",
-        "Hoefler Text";
-}
 
 h4 {
     font-family: "Lato"
 }
 
 p {
-    font-family: "Hoefler Text"; 
-    font-size: 19px;
+    font-family: "Garamond",
+            Baskerville,
+            "Baskerville Old Face",
+            "Hoefler Text";
+    font-size: 20px;
     font-synthesis: none;
     line-height: 1.1;
 }
 
 
 li{ 
-    font-family: "Hoefler Text";
-    font-size: 19px;
+    font-family: "Garamond",
+            Baskerville,
+            "Baskerville Old Face",
+            "Hoefler Text";
+    font-size: 20px;
 }
 img {
  
